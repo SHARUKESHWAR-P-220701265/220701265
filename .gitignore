@@ -1,3 +1,4 @@
 /Logging_Middleware/node_modules/
 /Backend_Test_Submission/node_modules/
 .DS_Store
+/Logging_Middleware/.env
